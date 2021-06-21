@@ -6,13 +6,14 @@ This is a python command-line interface application that sorts through historica
 
 ## Examples
 
-Bitstamp gragh for all time
+### Bitstamp gragh for all time
 ![Bitstamp gragh for all time](Images/bitstampgraph.png)
 
-Coinbase gragh for all time
+
+### Coinbase gragh for all time
 ![Coinbase gragh for all time](Images/coinbasegraph.png)
 
-Bitstamp vs Coinbase prices gragh for all time
+### Bitstamp vs Coinbase prices gragh for all time
 ![Bitstamp vs Coinbase prices gragh for all time](Images/bitstampvscoinbaseprices.png)
 ---
 
