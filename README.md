@@ -1,4 +1,7 @@
-# Module 3 Challenge - Application to sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase
+# Module 3 Challenge - Crypto Arbitrage
+
+## Application to sort through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase
+
 
 This is a python command-line interface application that sorts through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The three phases of financial analysis(data collection, preparation, and analysis) is used to determine if any arbitrage opportunities exist for Bitcoin.
 
